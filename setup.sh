@@ -58,3 +58,7 @@ if [[ ! $REPLY =~ ^[Yy]$ ]]
                     fi
             fi
     fi
+
+
+#TODO: adding the functionality to check wheather the script is ran as root or not...
+#TODO: More code for my help 
